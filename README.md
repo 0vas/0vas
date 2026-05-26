@@ -32,7 +32,7 @@
 ### Certifications
 
 <details>
-<summary>🏅 <b>30+ certifications</b> (click to expand)</summary>
+<summary>🏅 <b>Key certifications</b> (click to expand)</summary>
 
 #### Microsoft Azure
 - Solutions Architect Expert (AZ-300)
