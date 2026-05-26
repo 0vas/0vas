@@ -1,6 +1,6 @@
 # Hey, I'm Oscar 👋
 
-**Corporate DevSecOps Architect** @ Credicorp | International Speaker | AI & Platform Engineering
+**Platform Product Lead** @ Credicorp | International Speaker | DevSecOps & GenAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlobatons)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oscarlobatons@outlook.com)
@@ -9,11 +9,12 @@
 
 ### About Me
 
+Platform Product Lead with strong experience in **DevSecOps**, **Platform Engineering**, **Cloud**, and **GenAI adoption**. I combine technical depth with leadership and soft skills to drive cross-functional initiatives, enable engineering teams, and connect technical strategy with business value.
+
 - 🎓 Systems Engineering @ **National University of Engineering** (GPA 4.0)
 - 📚 AI Engineering @ **Hanyang Cyber University** (in progress)
 - 🚀 Led GitHub Copilot adoption for **310+ developers**, saving **$1M**
-- 🎤 Speaker at **DevOpsDays**, **InnerSource Summit**, **GitHub Connect**
-- 🌎 Connecting tech teams across **17+ companies** through InnerSource
+- 🎤 Active speaker at **DevOpsDays**, **InnerSource Summit**, **GitHub Connect**
 
 ---
 
@@ -74,9 +75,9 @@
 
 ### Currently
 
-🏗️ Building internal developer platforms  
-🤖 Scaling GenAI adoption in enterprises  
-🌐 Leading InnerSource initiatives  
+🏗️ Leading platform enablement through **VSDP** and **SDD**  
+🤖 Driving **GenAI adoption** and developer productivity  
+🌐 Enabling technical governance across **17+ companies**  
 🎓 Teaching software development at UNI
 
 ---
