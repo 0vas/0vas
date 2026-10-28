@@ -28,65 +28,57 @@ Public activity on this account.
 
 ## Speaking
 
-Latin America, Europe, the United States, and Asia.
+11 talks across Latin America, Europe, the United States, and Asia. Decks at [slides.0vas.com](https://slides.0vas.com).
 
-[![11 talks](https://img.shields.io/badge/11_talks-111111?style=flat)](https://0vas.com)
-[![2024–2026](https://img.shields.io/badge/2024--2026-111111?style=flat)](https://0vas.com)
-[![slides.0vas.com](https://img.shields.io/badge/slides.0vas.com-111111?style=flat)](https://slides.0vas.com)
-
-<table>
-  <tr>
-    <td valign="top" width="72"><strong>2026</strong></td>
-    <td>
-      <strong>Abstracción en Platform Engineering</strong><br>
-      <a href="https://www.f13.pe/">F13 Code Summit</a> · Lima
-      <br><br>
-      <strong>Jueves de Quack: InnerSource con Credicorp</strong><br>
-      <a href="https://www.youtube.com/watch?v=aWz3BWj3d00">GitHub LATAM</a> · YouTube
-      <br><br>
-      <strong>Números Bonitos, Madurez Falsa</strong><br>
-      DevOpsDays Medellín
-      <br><br>
-      <strong>Construyendo un Framework de Platform Engineering</strong><br>
-      DevOpsDays Buenos Aires
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>2025</strong></td>
-    <td>
-      <strong>Building Bridges: Scaling InnerSource</strong><br>
-      <a href="https://innersourcecommons.org/">InnerSource Summit</a> · Germany, USA, Japan
-      <br><br>
-      <strong>Más allá de DevOps: InnerSource como catalizador de la agilidad</strong><br>
-      Agile Summit · Lima
-      <br><br>
-      <strong>La Evolución del Open Source en la Cultura Empresarial</strong><br>
-      <a href="https://devopsdays.org/events/2025-santiago/welcome/">DevOpsDays Santiago</a>
-      <br><br>
-      <strong>Las Mentiras de las Métricas</strong><br>
-      <a href="https://devopsdays.org/events/2025-lima/welcome/">DevOpsDays Lima</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>2024</strong></td>
-    <td>
-      <strong>Gestionando el conocimiento con Documentation as Code</strong><br>
-      DevSecOps Fest · Lima
-      <br><br>
-      <strong>Adopción de GenAI para revolucionar el desarrollo de software</strong><br>
-      DevOpsDays Medellín
-      <br><br>
-      <strong>Impulsando la productividad del desarrollador con GitHub Copilot</strong><br>
-      GitHub · YouTube
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<img src="assets/speaking/2026.svg" width="148" height="52" alt="2026"><br><br>
+<b>Abstracción en Platform Engineering</b><br>
+<a href="https://www.f13.pe/">F13 Code Summit</a> · Lima
+<br><br>
+<b>Jueves de Quack: InnerSource con Credicorp</b><br>
+<a href="https://www.youtube.com/watch?v=aWz3BWj3d00">GitHub LATAM</a> · YouTube
+<br><br>
+<b>Números Bonitos, Madurez Falsa</b><br>
+DevOpsDays Medellín
+<br><br>
+<b>Construyendo un Framework de Platform Engineering</b><br>
+DevOpsDays Buenos Aires
+</td>
+<td width="33%" valign="top">
+<img src="assets/speaking/2025.svg" width="148" height="52" alt="2025"><br><br>
+<b>Building Bridges: Scaling InnerSource</b><br>
+<a href="https://innersourcecommons.org/">InnerSource Summit</a> · Germany, USA, Japan
+<br><br>
+<b>Más allá de DevOps: InnerSource como catalizador de la agilidad</b><br>
+Agile Summit · Lima
+<br><br>
+<b>La Evolución del Open Source en la Cultura Empresarial</b><br>
+<a href="https://devopsdays.org/events/2025-santiago/welcome/">DevOpsDays Santiago</a>
+<br><br>
+<b>Las Mentiras de las Métricas</b><br>
+<a href="https://devopsdays.org/events/2025-lima/welcome/">DevOpsDays Lima</a>
+</td>
+<td width="33%" valign="top">
+<img src="assets/speaking/2024.svg" width="148" height="52" alt="2024"><br><br>
+<b>Gestionando el conocimiento con Documentation as Code</b><br>
+DevSecOps Fest · Lima
+<br><br>
+<b>Adopción de GenAI para revolucionar el desarrollo de software</b><br>
+DevOpsDays Medellín
+<br><br>
+<b>Impulsando la productividad del desarrollador con GitHub Copilot</b><br>
+GitHub · YouTube
+</td>
+</tr>
 </table>
 
 ## Certifications
 
 62 credentials across nine groups. Each tile links to [Credly](https://www.credly.com/users/oscar-andres-lobaton-salas/badges). The same registry is on [0vas.com](https://0vas.com).
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/azure.svg" width="36" height="36" alt="Azure"><br><b>Azure</b></a><br>8</td>
 <td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/github.svg" width="36" height="36" alt="GitHub"><br><b>GitHub</b></a><br>5</td>
@@ -106,7 +98,7 @@ Latin America, Europe, the United States, and Asia.
 
 <details>
 <summary><b>All 62 certifications</b></summary>
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%"><img src="assets/certs/azure.svg" width="18" height="18" align="absmiddle" alt="Azure"> <b>Azure · 8</b><br>
 <b>Solutions Architect Expert</b><br>
@@ -186,7 +178,7 @@ Cyber Security Foundation</td>
 
 ## Stack
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%"><img src="assets/stack/azure.svg" width="32" height="32" alt="Azure"><br>Azure</td>
 <td align="center" width="25%"><img src="assets/stack/aws.svg" width="32" height="32" alt="AWS"><br>AWS</td>
