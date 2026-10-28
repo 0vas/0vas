@@ -87,81 +87,13 @@ GitHub · YouTube
 
 <details>
 <summary><b>All 62 certifications</b></summary>
-<table width="100%">
-<tr>
-<td valign="top" width="33%"><img src="assets/certs/azure.svg" width="18" height="18" align="absmiddle" alt="Azure"> <b>Azure · 8</b><br>
-<b>Solutions Architect Expert</b><br>
-<b>DevOps Engineer Expert</b><br>
-<b>AI Engineer Associate</b><br>
-Developer Associate<br>
-Administrator Associate<br>
-Fundamentals<br>
-Data Fundamentals<br>
-AI Fundamentals<br><br>
-<img src="assets/certs/github.svg" width="18" height="18" align="absmiddle" alt="GitHub"> <b>GitHub · 5</b><br>
-Foundations<br>
-Actions<br>
-Administration<br>
-<b>Advanced Security</b><br>
-<b>Copilot</b><br><br>
-<img src="assets/certs/platform.svg" width="18" height="18" align="absmiddle" alt="Platform"> <b>Platform · 4</b><br>
-<b>Certified Practitioner</b><br>
-Introduction<br>
-Observability<br>
-AI in Platform Engineering</td>
-<td valign="top" width="33%"><img src="assets/certs/redhat.svg" width="18" height="18" align="absmiddle" alt="Red Hat"> <b>Red Hat · 10</b><br>
-OpenShift AI Workshop<br>
-Cloud Automation<br>
-Windows Automation with Ansible<br>
-OpenShift on AWS<br>
-Ansible for RHEL<br>
-Containers and Cloud-Native<br>
-Ansible for Security<br>
-Azure Red Hat OpenShift<br>
-Event-Driven Architecture<br>
-Getting Started with OpenShift<br><br>
-<img src="assets/certs/multicloud.svg" width="18" height="18" align="absmiddle" alt="Multi-cloud"> <b>Multi-cloud · 8</b><br>
-Google Cloud Computing Certificate<br>
-Google Cloud Computing Foundations<br>
-Google Cloud Core Infrastructure<br>
-Google Cloud Core Services<br>
-Google Cloud Digital Leader<br>
-AWS Technical Essentials<br>
-OCI Foundations Associate<br>
-IBM Cloud Essentials<br><br>
-<img src="assets/certs/devops.svg" width="18" height="18" align="absmiddle" alt="DevOps"> <b>DevOps · 7</b><br>
-<b>Terraform Associate</b><br>
-GitOps Fundamentals<br>
-DevOps Practices and Tools<br>
-DevSecOps Habits<br>
-Docker Essentials<br>
-Kubernetes Essentials<br>
-Git</td>
-<td valign="top" width="33%"><img src="assets/certs/leadership.svg" width="18" height="18" align="absmiddle" alt="Leadership"> <b>Leadership · 10</b><br>
-<b>McKinsey Forward</b><br>
-<b>Harvard Aspire</b><br>
-Harvard Negotiation<br>
-PMI GenAI Overview<br>
-PMI GenAI Data Landscape<br>
-PMI Management<br>
-Scrum Foundation<br>
-Digital Marketing<br>
-IBM Design Thinking<br>
-Jira Fundamentals<br><br>
-<img src="assets/certs/data.svg" width="18" height="18" align="absmiddle" alt="Data and AI"> <b>Data and AI · 7</b><br>
-IBM AI Fundamentals<br>
-Reactive Architecture<br>
-RDBMS Essentials<br>
-Oracle DB Foundations<br>
-Oracle DB Next Level<br>
-Oracle DB Performance<br>
-Samsung IoT<br><br>
-<img src="assets/certs/security.svg" width="18" height="18" align="absmiddle" alt="Security"> <b>Security · 3</b><br>
-<b>CyberOps Associate</b><br>
-CCNA Introduction to Networks<br>
-Cyber Security Foundation</td>
-</tr>
-</table>
+<br>
+<a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/certs/registry-light.svg" />
+    <img src="assets/certs/registry-dark.svg" width="100%" alt="All 62 certifications, grouped by Azure, GitHub, Platform, Red Hat, Multi-cloud, DevOps, Leadership, Data and AI, and Security." />
+  </picture>
+</a>
 </details>
 
 
