@@ -15,15 +15,16 @@ B.Sc. Systems Engineering, UNI · GPA 4.0 · AI Engineering, Hanyang Cyber Unive
 
 Public activity on this account.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=0vas&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&area=true&hide_border=true&custom_title=Public%20contributions" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0vas&bg_color=ffffff&color=24292f&line=57606a&point=24292f&area=true&hide_border=true&custom_title=Public%20contributions" alt="Public GitHub contribution activity for 0vas" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0vas&show_icons=true&hide_border=true&include_all_commits=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=0vas&show_icons=true&hide_border=true&include_all_commits=true&theme=default" alt="GitHub stats for 0vas" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0vas&show_icons=true&hide_border=true&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=0vas&show_icons=true&hide_border=true&theme=default" alt="GitHub stats for 0vas" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=0vas&theme=github-dark&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=0vas&theme=default&hide_border=true" alt="GitHub contribution streak for 0vas" height="165" />
+  </picture>
+</p>
 
 ## Speaking
 
@@ -87,19 +88,19 @@ Latin America, Europe, the United States, and Asia.
 
 <table>
 <tr>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/azure.svg" width="32" height="32" align="absmiddle" alt="Azure">&nbsp;&nbsp;<b>Azure</b> · 8</a></td>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/github.svg" width="32" height="32" align="absmiddle" alt="GitHub">&nbsp;&nbsp;<b>GitHub</b> · 5</a></td>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/platform.svg" width="32" height="32" align="absmiddle" alt="Platform">&nbsp;&nbsp;<b>Platform</b> · 4</a></td>
+<td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/azure.svg" width="36" height="36" alt="Azure"><br><b>Azure</b></a><br>8</td>
+<td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/github.svg" width="36" height="36" alt="GitHub"><br><b>GitHub</b></a><br>5</td>
+<td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/platform.svg" width="36" height="36" alt="Platform"><br><b>Platform</b></a><br>4</td>
 </tr>
 <tr>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/redhat.svg" width="32" height="32" align="absmiddle" alt="Red Hat">&nbsp;&nbsp;<b>Red Hat</b> · 10</a></td>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/multicloud.svg" width="32" height="32" align="absmiddle" alt="Multi-cloud">&nbsp;&nbsp;<b>Multi-cloud</b> · 8</a></td>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/devops.svg" width="32" height="32" align="absmiddle" alt="DevOps">&nbsp;&nbsp;<b>DevOps</b> · 7</a></td>
+<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/redhat.svg" width="36" height="36" alt="Red Hat"><br><b>Red Hat</b></a><br>10</td>
+<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/multicloud.svg" width="36" height="36" alt="Multi-cloud"><br><b>Multi-cloud</b></a><br>8</td>
+<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/devops.svg" width="36" height="36" alt="DevOps"><br><b>DevOps</b></a><br>7</td>
 </tr>
 <tr>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/leadership.svg" width="32" height="32" align="absmiddle" alt="Leadership">&nbsp;&nbsp;<b>Leadership</b> · 10</a></td>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/data.svg" width="32" height="32" align="absmiddle" alt="Data and AI">&nbsp;&nbsp;<b>Data and AI</b> · 7</a></td>
-<td width="33%" valign="middle"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/security.svg" width="32" height="32" align="absmiddle" alt="Security">&nbsp;&nbsp;<b>Security</b> · 3</a></td>
+<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/leadership.svg" width="36" height="36" alt="Leadership"><br><b>Leadership</b></a><br>10</td>
+<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/data.svg" width="36" height="36" alt="Data and AI"><br><b>Data and AI</b></a><br>7</td>
+<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/security.svg" width="36" height="36" alt="Security"><br><b>Security</b></a><br>3</td>
 </tr>
 </table>
 
@@ -187,34 +188,34 @@ Cyber Security Foundation</td>
 
 <table>
 <tr>
-<td width="25%" valign="middle"><img src="assets/stack/azure.svg" width="28" height="28" align="absmiddle" alt="Azure">&nbsp;&nbsp;Azure</td>
-<td width="25%" valign="middle"><img src="assets/stack/aws.svg" width="28" height="28" align="absmiddle" alt="AWS">&nbsp;&nbsp;AWS</td>
-<td width="25%" valign="middle"><img src="assets/stack/googlecloud.svg" width="28" height="28" align="absmiddle" alt="Google Cloud">&nbsp;&nbsp;Google Cloud</td>
-<td width="25%" valign="middle"><img src="assets/stack/oracle.svg" width="28" height="28" align="absmiddle" alt="Oracle">&nbsp;&nbsp;Oracle</td>
+<td align="center" width="25%"><img src="assets/stack/azure.svg" width="32" height="32" alt="Azure"><br>Azure</td>
+<td align="center" width="25%"><img src="assets/stack/aws.svg" width="32" height="32" alt="AWS"><br>AWS</td>
+<td align="center" width="25%"><img src="assets/stack/googlecloud.svg" width="32" height="32" alt="Google Cloud"><br>Google Cloud</td>
+<td align="center" width="25%"><img src="assets/stack/oracle.svg" width="32" height="32" alt="Oracle"><br>Oracle</td>
 </tr>
 <tr>
-<td valign="middle"><img src="assets/stack/githubactions.svg" width="28" height="28" align="absmiddle" alt="GitHub Actions">&nbsp;&nbsp;GitHub Actions</td>
-<td valign="middle"><img src="assets/stack/terraform.svg" width="28" height="28" align="absmiddle" alt="Terraform">&nbsp;&nbsp;Terraform</td>
-<td valign="middle"><img src="assets/stack/kubernetes.svg" width="28" height="28" align="absmiddle" alt="Kubernetes">&nbsp;&nbsp;Kubernetes</td>
-<td valign="middle"><img src="assets/stack/docker.svg" width="28" height="28" align="absmiddle" alt="Docker">&nbsp;&nbsp;Docker</td>
+<td align="center"><img src="assets/stack/githubactions.svg" width="32" height="32" alt="GitHub Actions"><br>GitHub Actions</td>
+<td align="center"><img src="assets/stack/terraform.svg" width="32" height="32" alt="Terraform"><br>Terraform</td>
+<td align="center"><img src="assets/stack/kubernetes.svg" width="32" height="32" alt="Kubernetes"><br>Kubernetes</td>
+<td align="center"><img src="assets/stack/docker.svg" width="32" height="32" alt="Docker"><br>Docker</td>
 </tr>
 <tr>
-<td valign="middle"><img src="assets/stack/openshift.svg" width="28" height="28" align="absmiddle" alt="OpenShift">&nbsp;&nbsp;OpenShift</td>
-<td valign="middle"><img src="assets/stack/jenkins.svg" width="28" height="28" align="absmiddle" alt="Jenkins">&nbsp;&nbsp;Jenkins</td>
-<td valign="middle"><img src="assets/stack/ansible.svg" width="28" height="28" align="absmiddle" alt="Ansible">&nbsp;&nbsp;Ansible</td>
-<td valign="middle"><img src="assets/stack/git.svg" width="28" height="28" align="absmiddle" alt="Git">&nbsp;&nbsp;Git</td>
+<td align="center"><img src="assets/stack/openshift.svg" width="32" height="32" alt="OpenShift"><br>OpenShift</td>
+<td align="center"><img src="assets/stack/jenkins.svg" width="32" height="32" alt="Jenkins"><br>Jenkins</td>
+<td align="center"><img src="assets/stack/ansible.svg" width="32" height="32" alt="Ansible"><br>Ansible</td>
+<td align="center"><img src="assets/stack/git.svg" width="32" height="32" alt="Git"><br>Git</td>
 </tr>
 <tr>
-<td valign="middle"><img src="assets/stack/python.svg" width="28" height="28" align="absmiddle" alt="Python">&nbsp;&nbsp;Python</td>
-<td valign="middle"><img src="assets/stack/javascript.svg" width="28" height="28" align="absmiddle" alt="JavaScript">&nbsp;&nbsp;JavaScript</td>
-<td valign="middle"><img src="assets/stack/java.svg" width="28" height="28" align="absmiddle" alt="Java">&nbsp;&nbsp;Java</td>
-<td valign="middle"><img src="assets/stack/bash.svg" width="28" height="28" align="absmiddle" alt="Bash">&nbsp;&nbsp;Bash</td>
+<td align="center"><img src="assets/stack/python.svg" width="32" height="32" alt="Python"><br>Python</td>
+<td align="center"><img src="assets/stack/javascript.svg" width="32" height="32" alt="JavaScript"><br>JavaScript</td>
+<td align="center"><img src="assets/stack/java.svg" width="32" height="32" alt="Java"><br>Java</td>
+<td align="center"><img src="assets/stack/bash.svg" width="32" height="32" alt="Bash"><br>Bash</td>
 </tr>
 <tr>
-<td valign="middle"><img src="assets/stack/cplusplus.svg" width="28" height="28" align="absmiddle" alt="C++">&nbsp;&nbsp;C++</td>
-<td valign="middle"><img src="assets/stack/csharp.svg" width="28" height="28" align="absmiddle" alt="C#">&nbsp;&nbsp;C#</td>
-<td valign="middle"><img src="assets/stack/langchain.svg" width="28" height="28" align="absmiddle" alt="LangChain">&nbsp;&nbsp;LangChain</td>
-<td valign="middle"><img src="assets/stack/postgresql.svg" width="28" height="28" align="absmiddle" alt="PostgreSQL">&nbsp;&nbsp;PostgreSQL</td>
+<td align="center"><img src="assets/stack/cplusplus.svg" width="32" height="32" alt="C++"><br>C++</td>
+<td align="center"><img src="assets/stack/csharp.svg" width="32" height="32" alt="C#"><br>C#</td>
+<td align="center"><img src="assets/stack/langchain.svg" width="32" height="32" alt="LangChain"><br>LangChain</td>
+<td align="center"><img src="assets/stack/postgresql.svg" width="32" height="32" alt="PostgreSQL"><br>PostgreSQL</td>
 </tr>
 </table>
 
