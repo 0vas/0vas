@@ -76,25 +76,14 @@ GitHub · YouTube
 
 ## Certifications
 
-62 credentials across nine groups. Each tile links to [Credly](https://www.credly.com/users/oscar-andres-lobaton-salas/badges). The same registry is on [0vas.com](https://0vas.com).
+62 credentials across nine groups. The board links to [Credly](https://www.credly.com/users/oscar-andres-lobaton-salas/badges). The same registry is on [0vas.com](https://0vas.com).
 
-<table width="100%">
-<tr>
-<td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/azure.svg" width="36" height="36" alt="Azure"><br><b>Azure</b></a><br>8</td>
-<td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/github.svg" width="36" height="36" alt="GitHub"><br><b>GitHub</b></a><br>5</td>
-<td align="center" width="33%"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/platform.svg" width="36" height="36" alt="Platform"><br><b>Platform</b></a><br>4</td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/redhat.svg" width="36" height="36" alt="Red Hat"><br><b>Red Hat</b></a><br>10</td>
-<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/multicloud.svg" width="36" height="36" alt="Multi-cloud"><br><b>Multi-cloud</b></a><br>8</td>
-<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/devops.svg" width="36" height="36" alt="DevOps"><br><b>DevOps</b></a><br>7</td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/leadership.svg" width="36" height="36" alt="Leadership"><br><b>Leadership</b></a><br>10</td>
-<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/data.svg" width="36" height="36" alt="Data and AI"><br><b>Data and AI</b></a><br>7</td>
-<td align="center"><a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges"><img src="assets/certs/security.svg" width="36" height="36" alt="Security"><br><b>Security</b></a><br>3</td>
-</tr>
-</table>
+<a href="https://www.credly.com/users/oscar-andres-lobaton-salas/badges">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/certs/board-light.svg" />
+    <img src="assets/certs/board-dark.svg" width="100%" alt="Certifications. Azure 8, GitHub 5, Platform 4, Red Hat 10, Multi-cloud 8, DevOps 7, Leadership 10, Data and AI 7, Security 3." />
+  </picture>
+</a>
 
 <details>
 <summary><b>All 62 certifications</b></summary>
@@ -178,38 +167,10 @@ Cyber Security Foundation</td>
 
 ## Stack
 
-<table width="100%">
-<tr>
-<td align="center" width="25%"><img src="assets/stack/azure.svg" width="32" height="32" alt="Azure"><br>Azure</td>
-<td align="center" width="25%"><img src="assets/stack/aws.svg" width="32" height="32" alt="AWS"><br>AWS</td>
-<td align="center" width="25%"><img src="assets/stack/googlecloud.svg" width="32" height="32" alt="Google Cloud"><br>Google Cloud</td>
-<td align="center" width="25%"><img src="assets/stack/oracle.svg" width="32" height="32" alt="Oracle"><br>Oracle</td>
-</tr>
-<tr>
-<td align="center"><img src="assets/stack/githubactions.svg" width="32" height="32" alt="GitHub Actions"><br>GitHub Actions</td>
-<td align="center"><img src="assets/stack/terraform.svg" width="32" height="32" alt="Terraform"><br>Terraform</td>
-<td align="center"><img src="assets/stack/kubernetes.svg" width="32" height="32" alt="Kubernetes"><br>Kubernetes</td>
-<td align="center"><img src="assets/stack/docker.svg" width="32" height="32" alt="Docker"><br>Docker</td>
-</tr>
-<tr>
-<td align="center"><img src="assets/stack/openshift.svg" width="32" height="32" alt="OpenShift"><br>OpenShift</td>
-<td align="center"><img src="assets/stack/jenkins.svg" width="32" height="32" alt="Jenkins"><br>Jenkins</td>
-<td align="center"><img src="assets/stack/ansible.svg" width="32" height="32" alt="Ansible"><br>Ansible</td>
-<td align="center"><img src="assets/stack/git.svg" width="32" height="32" alt="Git"><br>Git</td>
-</tr>
-<tr>
-<td align="center"><img src="assets/stack/python.svg" width="32" height="32" alt="Python"><br>Python</td>
-<td align="center"><img src="assets/stack/javascript.svg" width="32" height="32" alt="JavaScript"><br>JavaScript</td>
-<td align="center"><img src="assets/stack/java.svg" width="32" height="32" alt="Java"><br>Java</td>
-<td align="center"><img src="assets/stack/bash.svg" width="32" height="32" alt="Bash"><br>Bash</td>
-</tr>
-<tr>
-<td align="center"><img src="assets/stack/cplusplus.svg" width="32" height="32" alt="C++"><br>C++</td>
-<td align="center"><img src="assets/stack/csharp.svg" width="32" height="32" alt="C#"><br>C#</td>
-<td align="center"><img src="assets/stack/langchain.svg" width="32" height="32" alt="LangChain"><br>LangChain</td>
-<td align="center"><img src="assets/stack/postgresql.svg" width="32" height="32" alt="PostgreSQL"><br>PostgreSQL</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack/board-light.svg" />
+  <img src="assets/stack/board-dark.svg" width="100%" alt="Stack. Azure, AWS, Google Cloud, Oracle, GitHub Actions, Terraform, Kubernetes, Docker, OpenShift, Jenkins, Ansible, Git, Python, JavaScript, Java, Bash, C++, C#, LangChain, PostgreSQL." />
+</picture>
 
 ## Open source
 
