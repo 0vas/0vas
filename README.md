@@ -33,43 +33,30 @@ Public activity on this account.
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<img src="assets/speaking/2026.svg" width="148" height="52" alt="2026"><br><br>
-<b>Abstracción en Platform Engineering</b><br>
-<a href="https://www.f13.pe/">F13 Code Summit</a> · Lima
-<br><br>
-<b>Jueves de Quack: InnerSource con Credicorp</b><br>
-<a href="https://www.youtube.com/watch?v=aWz3BWj3d00">GitHub LATAM</a> · YouTube
-<br><br>
-<b>Números Bonitos, Madurez Falsa</b><br>
-DevOpsDays Medellín
-<br><br>
-<b>Construyendo un Framework de Platform Engineering</b><br>
-DevOpsDays Buenos Aires
+<img src="assets/speaking/2026.svg" width="148" height="52" alt="2026">
+<ul>
+<li><b>Abstracción en Platform Engineering</b><br><a href="https://www.f13.pe/">F13 Code Summit</a> · Lima</li>
+<li><b>Jueves de Quack: InnerSource con Credicorp</b><br><a href="https://www.youtube.com/watch?v=aWz3BWj3d00">GitHub LATAM</a> · YouTube</li>
+<li><b>Números Bonitos, Madurez Falsa</b><br>DevOpsDays Medellín</li>
+<li><b>Construyendo un Framework de Platform Engineering</b><br>DevOpsDays Buenos Aires</li>
+</ul>
 </td>
 <td width="33%" valign="top">
-<img src="assets/speaking/2025.svg" width="148" height="52" alt="2025"><br><br>
-<b>Building Bridges: Scaling InnerSource</b><br>
-<a href="https://innersourcecommons.org/">InnerSource Summit</a> · Germany, USA, Japan
-<br><br>
-<b>Más allá de DevOps: InnerSource como catalizador de la agilidad</b><br>
-Agile Summit · Lima
-<br><br>
-<b>La Evolución del Open Source en la Cultura Empresarial</b><br>
-<a href="https://devopsdays.org/events/2025-santiago/welcome/">DevOpsDays Santiago</a>
-<br><br>
-<b>Las Mentiras de las Métricas</b><br>
-<a href="https://devopsdays.org/events/2025-lima/welcome/">DevOpsDays Lima</a>
+<img src="assets/speaking/2025.svg" width="148" height="52" alt="2025">
+<ul>
+<li><b>Building Bridges: Scaling InnerSource</b><br><a href="https://innersourcecommons.org/">InnerSource Summit</a> · Germany, USA, Japan</li>
+<li><b>Más allá de DevOps: InnerSource como catalizador de la agilidad</b><br>Agile Summit · Lima</li>
+<li><b>La Evolución del Open Source en la Cultura Empresarial</b><br><a href="https://devopsdays.org/events/2025-santiago/welcome/">DevOpsDays Santiago</a></li>
+<li><b>Las Mentiras de las Métricas</b><br><a href="https://devopsdays.org/events/2025-lima/welcome/">DevOpsDays Lima</a></li>
+</ul>
 </td>
 <td width="33%" valign="top">
-<img src="assets/speaking/2024.svg" width="148" height="52" alt="2024"><br><br>
-<b>Gestionando el conocimiento con Documentation as Code</b><br>
-DevSecOps Fest · Lima
-<br><br>
-<b>Adopción de GenAI para revolucionar el desarrollo de software</b><br>
-DevOpsDays Medellín
-<br><br>
-<b>Impulsando la productividad del desarrollador con GitHub Copilot</b><br>
-GitHub · YouTube
+<img src="assets/speaking/2024.svg" width="148" height="52" alt="2024">
+<ul>
+<li><b>Gestionando el conocimiento con Documentation as Code</b><br>DevSecOps Fest · Lima</li>
+<li><b>Adopción de GenAI para revolucionar el desarrollo de software</b><br>DevOpsDays Medellín</li>
+<li><b>Impulsando la productividad del desarrollador con GitHub Copilot</b><br>GitHub · YouTube</li>
+</ul>
 </td>
 </tr>
 </table>
